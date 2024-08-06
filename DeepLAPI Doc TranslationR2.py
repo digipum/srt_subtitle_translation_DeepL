@@ -4,7 +4,7 @@ import time
 import os
 import shlex
 
-auth_key = "bccdebb3-91d6-d4cc-2b2f-7fab0bb7ed8b:fx"  # Replace with your actual API key
+auth_key = "DEEPLAPI KEY"  # Replace with your actual API key
 translator = deepl.Translator(auth_key)
 
 def count_characters(file_path):
